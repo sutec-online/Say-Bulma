@@ -1,0 +1,10 @@
+c:\users\kgn\documents\visual studio 2015\Projects\1.2sayıbulma\1.2sayıbulma\bin\Debug\1.2sayıbulma.exe.config
+c:\users\kgn\documents\visual studio 2015\Projects\1.2sayıbulma\1.2sayıbulma\bin\Debug\1.2sayıbulma.exe
+c:\users\kgn\documents\visual studio 2015\Projects\1.2sayıbulma\1.2sayıbulma\bin\Debug\1.2sayıbulma.pdb
+c:\users\kgn\documents\visual studio 2015\Projects\1.2sayıbulma\1.2sayıbulma\obj\Debug\1.2sayıbulma.csprojResolveAssemblyReference.cache
+c:\users\kgn\documents\visual studio 2015\Projects\1.2sayıbulma\1.2sayıbulma\obj\Debug\_1._2sayıbulma.Form1.resources
+c:\users\kgn\documents\visual studio 2015\Projects\1.2sayıbulma\1.2sayıbulma\obj\Debug\_1._2sayıbulma.Properties.Resources.resources
+c:\users\kgn\documents\visual studio 2015\Projects\1.2sayıbulma\1.2sayıbulma\obj\Debug\_1._2sayıbulma.TahminForm.resources
+c:\users\kgn\documents\visual studio 2015\Projects\1.2sayıbulma\1.2sayıbulma\obj\Debug\1.2sayıbulma.csproj.GenerateResource.Cache
+c:\users\kgn\documents\visual studio 2015\Projects\1.2sayıbulma\1.2sayıbulma\obj\Debug\1.2sayıbulma.exe
+c:\users\kgn\documents\visual studio 2015\Projects\1.2sayıbulma\1.2sayıbulma\obj\Debug\1.2sayıbulma.pdb
